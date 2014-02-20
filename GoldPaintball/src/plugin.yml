@@ -1,0 +1,8 @@
+name: GoldPaintball
+
+version: 0.1
+author: 100persent
+
+description: Paintball plugin for GoldCraft
+depend: [BattleArena]
+main: org.goldcraftmc.Paintball.Main
